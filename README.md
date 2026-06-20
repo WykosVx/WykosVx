@@ -1,4 +1,4 @@
-<h2 align="left">Hola Soy WykosVx</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />Hola Soy WykosVx</h2> 
 
 ###
 
