@@ -27,21 +27,14 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
+ <div align="center">
+
+![Avatar de Wykos](Wykos_avatar.png)
+
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
-
-</td>
-    <div align="center">
-      <img src="Gif.gif" width="200" />
-    </td>
-  </tr>
-</table>
-</td>
-    <div align="center">
-      <img src="wykos_avatar.pgn" width="200" />
-    </td>
 
