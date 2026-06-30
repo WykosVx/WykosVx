@@ -40,4 +40,8 @@
     </td>
   </tr>
 </table>
+</td>
+    <div align="center">
+      <img src="wykos_avatar.pgn" width="200" />
+    </td>
 
