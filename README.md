@@ -52,9 +52,3 @@ Si prefieres apoyar mediante cripto, puedes enviar tu donación a mi dirección 
 **Nota:** Asegúrate de enviar únicamente Bitcoin a esta dirección Gracias.
 
 ¡Cualquier apoyo es sumamente valorado y ayuda a seguir mejorando este proyecto!
-
-<p align="center">
-  <a href="https://open.spotify.com/user/314vsjfmhzypn7c7rxxfjj4a76rq">
-    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1781892089" alt="Visualizer de Spotify" />
-  </a>
-</p>
