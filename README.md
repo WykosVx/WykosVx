@@ -38,3 +38,15 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
+***☕ Apoyo al Desarrollo**
+
+Si te gusta mi trabajo y quieres apoyar el mantenimiento de mis proyectos como , puedes hacerlo de las siguientes formas:
+
+### 🪙 Criptomonedas (Exodus)
+Si prefieres apoyar mediante cripto, puedes enviar tu donación a mi dirección de Bitcoin:
+
+| Código QR | Dirección BTC |
+| :--- | :--- |
+| <img width="150" src="https://github.com/user-attachments/assets/5b18aeed-3c6a-46c6-92e1-5659e0323247" /> | `bc1q7eqkvm5asunhr3k494xg6f9tv2073ffhwac0y4` |
+
+**Nota:** Asegúrate de enviar únicamente Bitcoin a esta dirección.
