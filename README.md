@@ -38,11 +38,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
-***☕ Apoyo al Desarrollo**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/People%20Hugging.webp" alt="People Hugging" width="25" height="25" /> Apoyo al Desarrollo**
 
-Si te gusta mi trabajo y quieres apoyar el mantenimiento de mis proyectos como , puedes hacerlo de las siguientes formas:
+Si te gusta mi trabajo y quieres apoyar el mantenimiento de mis proyectos como, puedes hacerlo de las siguientes formas:
 
-### 🪙 Criptomonedas (Exodus)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20Bag.webp" alt="Money Bag" width="25" height="25" /> Criptomonedas (Exodus)
 Si prefieres apoyar mediante cripto, puedes enviar tu donación a mi dirección de Bitcoin:
 
 | Código QR | Dirección BTC |
