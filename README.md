@@ -29,7 +29,7 @@
 
  <div align="center">
 
-![Avatar de Wykos](Wykos_avatar.png)
+![Avatar de Wykos](wykos.png)
 
 
 ###
